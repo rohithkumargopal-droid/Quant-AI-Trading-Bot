@@ -1,0 +1,6 @@
+{
+  "name": "Quant AI Trading Bot",
+  "description": "A quantitative trading dashboard with Python bot generation, backtesting, and an AI execution engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
